@@ -1209,6 +1209,11 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
+"@hookstate/core@^3.0.8":
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/@hookstate/core/-/core-3.0.8.tgz#d6838153d6d43c2f35cfca475c31248192564e62"
+  integrity sha512-blQagGIVIbNoUiNCRrvaXqFmUe7WGMY35ok/LENfl2pcIsLBjkreYIZiaSFi83tkycwq7ZOmcQz/R1nvLKhH8w==
+
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/@istanbuljs/load-nyc-config/-/load-nyc-config-1.1.0.tgz#fd3db1d59ecf7cf121e80650bb86712f9b55eced"
@@ -8968,6 +8973,11 @@ react-app-polyfill@^2.0.0:
     raf "^3.4.1"
     regenerator-runtime "^0.13.7"
     whatwg-fetch "^3.4.1"
+
+react-custom-chat@^0.6.1:
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/react-custom-chat/-/react-custom-chat-0.6.1.tgz#5f2f303f349e1e4c9636a648929081bbc97233b0"
+  integrity sha512-xRe7ig3dLRoIqmOWdFw3GiLV2cJQ/wygZYwKLyPOqBYIQuE+foBJZmbWMSILZhcMVrfoV02XJp/HoQIzEXkTtg==
 
 react-dev-utils@^11.0.3:
   version "11.0.4"
